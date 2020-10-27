@@ -10,5 +10,6 @@ At present, psychological research on happiness is extensive and vast. Throughou
 <img src="Images/Correlation_Matrix.jpg">
 
 ## Resources
-
+### See Scales folder for original copies of all scales used to measure variables.
+### Below you can see the adult attachment model used in developing the hypothesis and discussing results.
 <img src="Images/Adult_Attachment_Model.jpg">
