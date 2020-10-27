@@ -7,4 +7,4 @@ At present, psychological research on happiness is extensive and vast. Throughou
 
 ## Results
 
-See correlation matrix inside Images folder for mean, standard deviation, and correlations between all variables measured.
+<img src="Images/">
