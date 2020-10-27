@@ -8,3 +8,7 @@ At present, psychological research on happiness is extensive and vast. Throughou
 ## Results
 
 <img src="Images/Correlation_Matrix.jpg">
+
+## Resources
+
+<img src="Images/Correlation_Matrix.jpg">
